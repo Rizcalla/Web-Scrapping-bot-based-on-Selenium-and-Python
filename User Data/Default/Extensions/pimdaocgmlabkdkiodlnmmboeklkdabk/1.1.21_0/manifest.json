@@ -1,0 +1,32 @@
+{
+   "author": "https://smartscout.top",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/logo_small_16.png",
+      "default_popup": "splash/popup.html",
+      "default_title": "Amazon Smart Scout View FREE"
+   },
+   "content_scripts": [ {
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://www.amazon.com/*", "*://www.amazon.ca/*", "*://www.amazon.co.uk/*", "*://www.amazon.com.au/*", "*://www.amazon.in/*", "*://www.amazon.ae/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Amazon & FBA product research tool. All important information about products right on Amazon pages.",
+   "homepage_url": "https://smartscout.top",
+   "icons": {
+      "128": "icons/logo_small_128.png",
+      "16": "icons/logo_small_16.png",
+      "48": "icons/logo_small_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAikoIjx7luGcoj9kGp3IpIbj7h/VNBds+sedIyS8nQ6cYRrb0oxai+QURyG/CnRf6xucgKKoRrrns01dwY8dGGvbS92u4I8KQRr5hduGCC4a47F34kXVnQHueTbBUrMiydxnp9rhR1m0UylFhKOkXJlqbDA1Ld/ZmC8ctvjSf9W+fglE5sY7YRnojbYRRSMyptwLh8gGB4fdIewXbXOpjsPmoatsurApmHTd7SZh3zm3nhunb3Ux/Y920LCBERcY4obc1brBce7E0xvWJQla/FqlRa46CtqCGp9WDPBtbOzrQ2bofHuTOoAggqfIQRSg0y5+a7EDd63lQi8GFveUlPwIDAQAB",
+   "manifest_version": 2,
+   "name": "Amazon Smart Scout View FREE",
+   "permissions": [ "activeTab", "storage", "unlimitedStorage", "webRequest", "webRequestBlocking", "*://www.amazon.com/*", "*://www.amazon.ca/*", "*://www.amazon.co.uk/*", "*://www.amazon.com.au/*", "*://www.amazon.in/*", "*://www.amazon.ae/*" ],
+   "short_name": "Smart Scout View FREE",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.21",
+   "web_accessible_resources": [ "images/*" ]
+}

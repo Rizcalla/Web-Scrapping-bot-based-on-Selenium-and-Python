@@ -1,0 +1,66 @@
+2022/04/28-23:07:31.622 38c0 Reusing MANIFEST E:\Documents\Rzr\Python\Web Scrapping bot based on Selenium and Python\User Data\Default\Local Extension Settings\pimdaocgmlabkdkiodlnmmboeklkdabk/MANIFEST-000001
+2022/04/28-23:07:31.623 38c0 Recovering log #6
+2022/04/28-23:07:31.631 38c0 Reusing old log E:\Documents\Rzr\Python\Web Scrapping bot based on Selenium and Python\User Data\Default\Local Extension Settings\pimdaocgmlabkdkiodlnmmboeklkdabk/000006.log 
+2022/04/28-23:11:49.142 3320 Level-0 table #10: started
+2022/04/28-23:11:49.212 3320 Level-0 table #10: 1252203 bytes OK
+2022/04/28-23:11:49.237 3320 Delete type=0 #6
+2022/04/28-23:12:13.358 3320 Level-0 table #12: started
+2022/04/28-23:12:13.443 3320 Level-0 table #12: 1218148 bytes OK
+2022/04/28-23:12:13.467 3320 Delete type=0 #9
+2022/04/28-23:13:32.437 2828 Level-0 table #14: started
+2022/04/28-23:13:32.517 2828 Level-0 table #14: 1176666 bytes OK
+2022/04/28-23:13:32.541 2828 Delete type=0 #11
+2022/04/28-23:13:57.646 4628 Level-0 table #16: started
+2022/04/28-23:13:57.714 4628 Level-0 table #16: 1196327 bytes OK
+2022/04/28-23:13:57.738 4628 Delete type=0 #13
+2022/04/28-23:13:57.738 2828 Compacting 4@0 + 1@1 files
+2022/04/28-23:13:57.797 2828 Generated table #17@0: 1 keys, 103088 bytes
+2022/04/28-23:13:57.797 2828 Compacted 4@0 + 1@1 files => 103088 bytes
+2022/04/28-23:13:57.821 2828 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/28-23:13:57.821 2828 Delete type=2 #7
+2022/04/28-23:13:57.821 2828 Delete type=2 #10
+2022/04/28-23:13:57.821 2828 Delete type=2 #12
+2022/04/28-23:13:57.821 2828 Delete type=2 #14
+2022/04/28-23:13:57.821 2828 Delete type=2 #16
+2022/04/28-23:14:35.063 2828 Level-0 table #19: started
+2022/04/28-23:14:35.125 2828 Level-0 table #19: 1169343 bytes OK
+2022/04/28-23:14:35.151 2828 Delete type=0 #15
+2022/04/28-23:14:53.060 38a4 Level-0 table #21: started
+2022/04/28-23:14:53.133 38a4 Level-0 table #21: 1248687 bytes OK
+2022/04/28-23:14:53.157 38a4 Delete type=0 #18
+2022/04/28-23:15:47.037 1954 Level-0 table #23: started
+2022/04/28-23:15:47.119 1954 Level-0 table #23: 1183756 bytes OK
+2022/04/28-23:15:47.169 1954 Delete type=0 #20
+2022/04/28-23:16:03.851 4628 Level-0 table #25: started
+2022/04/28-23:16:03.925 4628 Level-0 table #25: 1127599 bytes OK
+2022/04/28-23:16:03.950 4628 Delete type=0 #22
+2022/04/28-23:16:03.950 35e4 Compacting 4@0 + 1@1 files
+2022/04/28-23:16:04.017 35e4 Generated table #26@0: 1 keys, 127801 bytes
+2022/04/28-23:16:04.017 35e4 Compacted 4@0 + 1@1 files => 127801 bytes
+2022/04/28-23:16:04.040 35e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/28-23:16:04.041 35e4 Delete type=2 #17
+2022/04/28-23:16:04.041 35e4 Delete type=2 #19
+2022/04/28-23:16:04.041 35e4 Delete type=2 #21
+2022/04/28-23:16:04.041 35e4 Delete type=2 #23
+2022/04/28-23:16:04.041 35e4 Delete type=2 #25
+2022/04/28-23:16:44.321 4628 Level-0 table #28: started
+2022/04/28-23:16:44.396 4628 Level-0 table #28: 1183286 bytes OK
+2022/04/28-23:16:44.420 4628 Delete type=0 #24
+2022/04/28-23:17:18.693 47f0 Level-0 table #30: started
+2022/04/28-23:17:18.800 47f0 Level-0 table #30: 1218018 bytes OK
+2022/04/28-23:17:18.825 47f0 Delete type=0 #27
+2022/04/28-23:17:31.130 4628 Level-0 table #32: started
+2022/04/28-23:17:31.207 4628 Level-0 table #32: 1129247 bytes OK
+2022/04/28-23:17:31.232 4628 Delete type=0 #29
+2022/04/28-23:17:42.684 47f0 Level-0 table #34: started
+2022/04/28-23:17:42.756 47f0 Level-0 table #34: 1177803 bytes OK
+2022/04/28-23:17:42.780 47f0 Delete type=0 #31
+2022/04/28-23:17:42.780 4628 Compacting 4@0 + 1@1 files
+2022/04/28-23:17:42.839 4628 Generated table #35@0: 1 keys, 149724 bytes
+2022/04/28-23:17:42.839 4628 Compacted 4@0 + 1@1 files => 149724 bytes
+2022/04/28-23:17:42.862 4628 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/28-23:17:42.863 4628 Delete type=2 #26
+2022/04/28-23:17:42.863 4628 Delete type=2 #28
+2022/04/28-23:17:42.863 4628 Delete type=2 #30
+2022/04/28-23:17:42.863 4628 Delete type=2 #32
+2022/04/28-23:17:42.863 4628 Delete type=2 #34
